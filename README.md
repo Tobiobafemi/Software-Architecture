@@ -1,13 +1,13 @@
 # Software-Architecture
 
-#Share Price Comparison Web Application
+# Share Price Comparison Web Application
 Overview
 
 This project is a Java-based Share Price Comparison application developed for the Software Architecture module.
 
 The system retrieves and compares stock market data for multiple companies using a layered architectural design to ensure maintainability and separation of concerns.
 
-#Architecture
+# Architecture
 
 The application follows a Layered Architecture Pattern, consisting of:
 
