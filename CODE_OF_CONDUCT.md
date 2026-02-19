@@ -3,7 +3,7 @@
 Oluwatobi Obafemi – OBA23592328
 Elijah kuku – A00038353
 Sebastian Moreno - A00038125
-Habsa Sharif - 
+Habsa Sharif - SHA23591248
 
 Purpose:
 The purpose of this code of conduct is to define the standards of behaviour, collaboration and accountability that is expected from each group member throughout the development of the Share Price Comparison Web Application.
