@@ -6,7 +6,7 @@ import com.g6.shareprice.domain.PriceSeries;
 
 public class SQLitePriceRepository {
     public void save(PriceSeries series) {
-        System.out.println("Saved series for " + series.getSymbol().getValue());
+        System.out.println("Prices saved for " + series.getSymbol().getValue());
         // Upcoming sprints: save offline to real database
     }
 }

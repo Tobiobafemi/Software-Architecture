@@ -24,7 +24,7 @@ public class SharePriceService {
     public ComparisonResult compare(String s1, String s2, LocalDate from, LocalDate to) {
 
         if (ChronoUnit.DAYS.between(from, to) > 730)
-            throw new IllegalArgumentException("Max 2 year range");
+            throw new IllegalArgumentException("Select a maximum of 2 year range");
         // Enforcing rules for appropriate range
 
         PriceSeries a = provider.getPrices(new ShareSymbol(s1), from, to);
