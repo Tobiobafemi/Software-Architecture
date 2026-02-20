@@ -15,59 +15,59 @@ Its purpose is to make certain of professionalism, fairness and teamwork.
 
 Professional Behaviour 
 
-All team members agree to: 
+- All team members agree to: 
 
-Treat each other with respect and professionalism always 
+- Treat each other with respect and professionalism always 
 
-Communicate clearly and politely 
+- Communicate clearly and politely 
 
-Listen to different opinions before making decisions 
+- Listen to different opinions before making decisions 
 
-Avoid discriminatory, offensive, or disruptive behaviour 
+- Avoid discriminatory, offensive, or disruptive behaviour 
 
-Maintain a positive and constructive working environment 
+- Maintain a positive and constructive working environment 
 
 Communication 
 
-The primary communication platform will be agreed upon by the group (e.g., WhatsApp, email and iMessage). 
+- The primary communication platform will be agreed upon by the group (e.g., WhatsApp, email and iMessage). 
 
-All members should respond to group messages within a reasonable timeframe (e.g., 24 hours). 
+- All members should respond to group messages within a reasonable timeframe (e.g., 24 hours). 
 
-If a member cannot attend a meeting, they must inform the group in advance. 
+- If a member cannot attend a meeting, they must inform the group in advance. 
 
-Important decisions must be documented in meeting notes. 
+- Important decisions must be documented in meeting notes. 
 
 Task Allocation 
 
-Tasks will be distributed fairly based on skills and availability. 
+- Tasks will be distributed fairly based on skills and availability. 
 
-Workload should be balanced across members. 
+- Workload should be balanced across members. 
 
-If a member is struggling, they must communicate early so the group can assist. 
+- If a member is struggling, they must communicate early so the group can assist. 
 
-No member should take over all tasks unless agreed by the team. 
+- No member should take over all tasks unless agreed by the team. 
 
 GitHub & Version Control 
 
-All code must be committed through GitHub. 
+- All code must be committed through GitHub. 
 
-Feature branches should be used where appropriate. 
+- Feature branches should be used where appropriate. 
 
-Code should be clean, organised, and commented. 
+- Code should be clean, organised, and commented. 
 
-No one should delete or overwrite another member’s work without discussion. 
+- No one should delete or overwrite another member’s work without discussion. 
 
  
 
 Academic Integrity 
 
-All work must comply with university academic integrity policies. 
+- All work must comply with university academic integrity policies. 
 
-No plagiarism or copying from external sources without proper understanding. 
+- No plagiarism or copying from external sources without proper understanding. 
 
-AI tools may only be used in accordance with university guidelines. 
+- AI tools may only be used in accordance with university guidelines. 
 
-All members are responsible for understanding the submitted work. 
+- All members are responsible for understanding the submitted work. 
 
 Agreement 
 
