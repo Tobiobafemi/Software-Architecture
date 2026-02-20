@@ -19,4 +19,4 @@ Data Provider Layer – Retrieves stock market data
 
 Domain Layer – Defines core data models
 
-This structure improves scalability, readability, and testability.
+This structure improves scalability, readability, and testability t.
