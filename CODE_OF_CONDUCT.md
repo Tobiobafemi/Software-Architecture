@@ -71,4 +71,29 @@ Academic Integrity
 
 Agreement 
 
-- By participating in this project, all team members agree to follow this Code of Conduct and uphold the standards outlined above. 
+- By participating in this project, all team members agree to follow this Code of Conduct and uphold the standards outlined above.
+
+Punishments:
+1. Verbal Warning
+
+If a member misses a deadline or fails to contribute:
+
+ - The issue will first be discussed privately within the group.
+
+ - The member will be given a chance to explain and improve.
+
+2. Written Record in Meeting Notes
+
+If behaviour continues:
+
+- The issue will be documented in meeting minutes.
+
+- Missed deadlines or lack of contribution will be recorded as evidence.
+
+  4. Reporting to Lecturer
+
+If the issue is serious or ongoing:
+
+- The group may formally inform the module tutor.
+
+- Evidence (GitHub commits, meeting notes, messages) may be provided.
