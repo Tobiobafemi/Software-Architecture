@@ -5,6 +5,8 @@ Elijah kuku – A00038353
 Sebastian Moreno - A00038125
 Habsa Sharif - SHA23591248
 
+Time Agreed - 02/02/2026
+
 Purpose: 
 
 The purpose of this code of conduct is to define the standards of behaviour, collaboration and accountability that is expected from each group member throughout the development of the Share Price Comparison Web Application. 
@@ -90,10 +92,12 @@ If behaviour continues:
 
 - Missed deadlines or lack of contribution will be recorded as evidence.
 
-  4. Reporting to Lecturer
+3. Reporting to Lecturer
 
 If the issue is serious or ongoing:
 
 - The group may formally inform the module tutor.
 
 - Evidence (GitHub commits, meeting notes, messages) may be provided.
+
+  If there seems to be no change we will discuss to lecturer about removing such person 
