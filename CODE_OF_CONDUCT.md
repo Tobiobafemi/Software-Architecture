@@ -100,4 +100,4 @@ If the issue is serious or ongoing:
 
 - Evidence (GitHub commits, meeting notes, messages) may be provided.
 
-  If there seems to be no change we will discuss to lecturer about removing such person 
+If there seems to be no change we will discuss with lecturer about removing such person 
