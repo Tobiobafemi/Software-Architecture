@@ -7,6 +7,7 @@ Habsa Sharif - SHA23591248
 
 Time Agreed - 02/02/2026
 
+
 Purpose: 
 
 The purpose of this code of conduct is to define the standards of behaviour, collaboration and accountability that is expected from each group member throughout the development of the Share Price Comparison Web Application. 
